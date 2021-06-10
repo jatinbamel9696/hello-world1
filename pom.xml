@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>${project.artifactId}-${project.version}</finalName>
+    <finalName>${project.artifactId}##1.4.7</finalName>
   </build>
 </project>
