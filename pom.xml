@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>abcd##1.0.0</finalName>
+    <finalName>abcd##1.0.1</finalName>
   </build>
 </project>
