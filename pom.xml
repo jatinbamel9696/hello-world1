@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>alauda.io</groupId>
   <artifactId>abcd</artifactId>
+  <version>0.0.1</version>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
-  <name>Webapp</name>
+  <name>jatin</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>abcd##1.0.1</finalName>
+    <finalName>${project.artifactId}##${project.version}</finalName>
   </build>
 </project>
