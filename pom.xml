@@ -40,7 +40,7 @@
                     <webResources>
                         <resource>
                             <filtering>true</filtering>
-                            <directory>src/packaging/</directory>
+                            <directory>src/target/</directory>
                         </resource>
                     </webResources>
                 </configuration>
