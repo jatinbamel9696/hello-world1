@@ -7,8 +7,8 @@
     <groupId>com.taringamberini</groupId>
     <artifactId>myproject</artifactId>
     <packaging>war</packaging>
-    <version>1.0.2</version>
-    <url>http://maven.apache.org</url>
+    <version>1.0.3</version>
+    <url>http://localhost:8080/manager/html/</url>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.build.timestamp.format>yyyyMMdd_HHmmss</maven.build.timestamp.format>
